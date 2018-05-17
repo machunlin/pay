@@ -24,6 +24,12 @@
 >* 专业版提供一对一技术支持，可定制功能。
 
 
+## 文档
+
+[接口文档](https://github.com/machunlin/onePayCenter/wiki/%E6%94%AF%E4%BB%98%E4%B8%AD%E5%BF%83%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3)
+
+-----------------------------------
+
 扫二维码，加Q群 :
 
 ![扫二维码，加Q群](https://img-blog.csdn.net/20180517135411213)
